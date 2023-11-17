@@ -1,1 +1,1 @@
-# midjourney-prompt-generator.github.io
+# Home
